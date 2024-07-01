@@ -35,9 +35,12 @@ An Employee Management System using React is a dynamic web application designed 
 
   ```
 ### OUTPUT
-[Screenshot (2244)](https://github.com/hariprasath-0ffl/Employee-Management-System/assets/123928482/7924b155-8695-47d9-b565-c39631a545e3)
+![Screenshot (2244)](https://github.com/hariprasath-0ffl/Employee-Management-System/assets/123928482/121a4589-5e8b-47a1-9399-8447ecfc971f)
+
 ![Screenshot (2245)](https://github.com/hariprasath-0ffl/Employee-Management-System/assets/123928482/7b4f3e9c-7da3-4938-a69a-5615a7836f74)
+
 ![Screenshot (2246)](https://github.com/hariprasath-0ffl/Employee-Management-System/assets/123928482/6466b430-bc5e-4305-a147-336a10fc333f)
+
 ![Screenshot (2247)](https://github.com/hariprasath-0ffl/Employee-Management-System/assets/123928482/65c268fa-4f5d-4006-99ea-181fc8b8a890)
 
 ![Screenshot (2248)](https://github.com/hariprasath-0ffl/Employee-Management-System/assets/123928482/f36c2b64-7a49-4e5c-9a2c-a02be3f286f5)
