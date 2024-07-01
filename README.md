@@ -45,5 +45,5 @@ An Employee Management System using React is a dynamic web application designed 
 
 
 
-![Screenshot (2265)](https://github.com/hariprasath-0ffl/Hideaway-Booking-System/assets/123928482/192f3539-d066-4ec1-b42b-52deb7725d44)
+
 
